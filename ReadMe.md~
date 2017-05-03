@@ -1,0 +1,2 @@
+This is a web scrapper that crawls through a list of webpages and extracts name, country and email from those pages. The results are stored in a csv file. This is 
+customized strictly for the webpage used, for usage in other site or page, the code needs to be modifie.
